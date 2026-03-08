@@ -10,7 +10,7 @@ A machine learning web app that predicts whether a loan applicant is likely to d
 - Predicts loan default risk (0 = No Default, 1 = Default)
 - Searchable profession and state selectors
 - Target encoding for profession and state risk mapping
-- Handles class imbalance using SMOTE + Random Forest
+
 
 ## 🛠️ Tech Stack
 - **Frontend:** Streamlit

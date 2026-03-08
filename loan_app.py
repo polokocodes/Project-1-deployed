@@ -4,6 +4,8 @@ import joblib
 import numpy as np
 
 model = joblib.load("loan_data_model.pkl")
+prof_means = joblib.load("prof_means.pkl")
+state_means = joblib.load("state_means.pkl")
 
 st.title("Loan default prediction")
 
